@@ -24,3 +24,7 @@ Modules Need to be Installed to Work
 dns.resolver
 whois
 colorama
+
+https://pypi.python.org/pypi/whois/0.7
+http://www.dnspython.org/kits/1.3.5/
+http://pkgs.org/download/python-colorama
