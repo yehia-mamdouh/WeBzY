@@ -282,7 +282,7 @@ the same directory and wordlist too """
 def Dns():
     try:
         print ""
-        print "Example : google.com
+        print "Example : google.com"
         ans = raw_input("Enter Doamin name: ")
         answers = dns.resolver.query(ans, 'MX')
         answers1 = dns.resolver.query(ans, 'A')
